@@ -46,6 +46,9 @@
 ## Output:
 ![Output](https://github.com/Dharshni10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145801097/a3891afc-424d-4748-9801-d1a691e64fcf)
 
+![WhatsApp Image 2024-05-19 at 15 01 27_77c02fd7](https://github.com/Dharshni10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145801097/539d9afe-a03d-4368-bd11-626716f3d9e1)
+
+
 ### Name:Dharshni V M
 ### Register Number: 212223240029
 
